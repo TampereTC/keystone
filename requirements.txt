@@ -11,7 +11,7 @@ netaddr==0.7.13
 PasteDeploy==1.5.2
 Paste==1.7.5.1
 Routes==2.1
-six==1.9.0
+six==1.11.0
 SQLAlchemy==0.9.10
 sqlalchemy-migrate==0.9.1
 passlib==1.6.2
